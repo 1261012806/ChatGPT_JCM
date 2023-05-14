@@ -30,7 +30,7 @@ axios.interceptors.response.use(function (response) {
 
 const base = {
   axios: axios,
-  baseUrl: 'https://api.1ren.ren'
+  baseUrl: 'https://openai-proxy-api.pages.dev/api'
 }
 
 export default base
