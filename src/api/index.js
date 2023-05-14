@@ -30,7 +30,7 @@ axios.interceptors.response.use(function (response) {
 
 const base = {
   axios: axios,
-  baseUrl: 'https://api.openai.com'
+  baseUrl: 'https://openai.1rmb.tk'
 }
 
 export default base
